@@ -11,3 +11,5 @@ Keep the following in a separate private store:
 - credentials, tokens, account secrets, and private human information.
 
 Public receipts may cite an opaque private companion-receipt ID or commitment. They must not reveal the underlying hidden state.
+
+Any tool that processes this material must read from and write to a separate private store outside the public Git checkout. An ignored folder inside this checkout is not a private store.

@@ -2,6 +2,15 @@
 
 This file is a compact index. The exact supplied artifacts and fuller development notes are preserved under [`history/`](history/).
 
+## Ledger helpers v0.1 — 2026-09-02
+
+- Added standard-library Python helpers for v0.16 arithmetic, already-resolved state reduction, append-oriented event replay, rebuildable state projections, and player footers.
+- Added explicit genesis, manifest, proposal, event, state, and reducer schemas; stale-head refusal; idempotent retries; and scoped integrity results.
+- Added a staged-public-index scanner for common private-state paths, campaign symlinks, and private helper-ledger structures without echoing their values.
+- Documented private-store separation, external head anchors and backups, cross-ledger limits, projection recovery, and the boundary between tool validation and campaign authority.
+
+Status: non-authoritative tooling; not a kernel revision, campaign migration, authentication mechanism, or certification service.
+
 ## Repository initialization — 2026-09-02
 
 - Established the public Finis Solutus project home.

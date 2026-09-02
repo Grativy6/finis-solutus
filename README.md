@@ -64,6 +64,10 @@ This public repository may hold player-visible rules, rosters, scene openings, a
 
 It must not hold exact NPC mechanics, unrevealed world facts, private character material, credentials, or DM-only plans. Those belong in a separate private store. The repository's ignore rules include tripwires for common private-ledger paths.
 
+## Ledger helpers
+
+The standard-library Python tools under [`scripts/`](scripts/) can calculate v0.16 arithmetic, apply already-resolved state changes to a hash-chained helper ledger, rebuild its projection, and check a staged public Git index for common private-state boundary violations. They are non-authoritative implementation aids: they do not resolve play, adopt facts, migrate a campaign, authenticate a custodian, or certify a branch. Within one helper ledger, its event log is the replay source for its generated projection; the active kernel, rules lock, accepted DM resolution, and committed campaign receipts remain controlling.
+
 ## Repository map
 
 | Path | Purpose |
@@ -71,6 +75,7 @@ It must not hold exact NPC mechanics, unrevealed world facts, private character 
 | [`kernel/`](kernel/) | Current kernel, source artifact, and authority notice |
 | [`docs/`](docs/) | Player quickstart and public-play protocols |
 | [`campaigns/`](campaigns/) | Public campaign templates and, later, public traces |
+| [`scripts/`](scripts/) | Deterministic, non-authoritative arithmetic and ledger helpers |
 | [`history/`](history/) | Byte-preserved development drafts and checksums |
 | [`CHANGELOG.md`](CHANGELOG.md) | Compact development lineage |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Playtest reporting and contribution boundaries |
