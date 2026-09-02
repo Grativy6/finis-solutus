@@ -1,0 +1,22 @@
+# Public repository boundary: never commit private campaign custody here.
+dm-private/
+**/dm-private/
+hidden-npc-ledger/
+**/hidden-npc-ledger/
+private-character-state/
+**/private-character-state/
+secrets/
+**/secrets/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Local/editor artifacts
+.DS_Store
+Thumbs.db
+~$*
+*.tmp

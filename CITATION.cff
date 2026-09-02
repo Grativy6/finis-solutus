@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you reference Finis Solutus, please cite Christopher D. Pang and the exact kernel version used."
+title: "Finis Solutus: World, Campaign & DM Kernel"
+type: software
+version: "0.16-draft"
+license: CC-BY-4.0
+authors:
+  - family-names: Pang
+    given-names: Christopher D.
+repository-code: "https://github.com/Grativy6/finis-solutus"

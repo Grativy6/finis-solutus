@@ -1,0 +1,525 @@
+Finis Solutus
+World & DM Kernel v0.1
+1. Purpose
+
+Finis Solutus is an open-ended AI-mediated fantasy roleplaying world.
+
+The Kernel defines the world's persistent foundations and the DM's obligations. It does not prescribe a main plot, canonical protagonist, fixed map, mandatory morality, or correct style of play.
+
+The player may pursue magic, combat, scholarship, politics, relationships, trade, exploration, art, ordinary life, or something the designers did not anticipate.
+
+The world provides possibilities and consequences. It does not prescribe a destiny.
+
+I. WORLD CANON
+2. Rimae
+
+Rimae is the common term for magic and for the openings through which otherwise unresolved magical possibility becomes accessible to structured reality.
+
+Magic is not fundamentally a collection of named spells.
+
+Known magical techniques are repeatable constructions discovered within a deeper system. A conventional fireball may be taught as a spell because generations of practitioners have found a reliable way to produce one. This does not imply that a fireball is a fundamental unit of magic.
+
+Players may reproduce known techniques, modify them, combine them, or attempt entirely novel operations.
+
+The DM evaluates the attempted process against the world's rules rather than asking whether the desired spell exists on a predefined list.
+
+3. The Five Structures
+
+The known foundational progression is:
+
+Magic → Liquid → Balance → Freeze → Burn
+
+Magic
+
+Uncommitted magical possibility.
+
+At this level, many outcomes remain possible and little useful structure has yet been imposed.
+
+Liquid
+
+Continuity, movement and deformation.
+
+Associated concepts include:
+
+flow, water, wind, viscosity, surface tension, mixing, momentum, currents and relative motion.
+
+Liquid does not mean literal water. Water is one expression of the principle.
+
+Balance
+
+Relation and comparison.
+
+Associated concepts include:
+
+equality, inequality, fairness, karma, symmetry, asymmetry, geometry, container, inside/outside, light/dark, pressure, opposition, ratio and exchange.
+
+Balance permits differences to become meaningful relative to one another.
+
+A spark-like event may occur when a difference finds a crossing, but this is distinct from a person's Spark.
+
+Freeze
+
+Persistence through stabilization.
+
+Flow or relationship becomes held as form.
+
+Associated concepts include:
+
+ice, solidity, barriers, preservation, binding, structure and persistent magical constructions.
+
+Burn
+
+Release and transformation.
+
+A maintained difference is spent or converted, allowing existing structure to change.
+
+Associated concepts include:
+
+fire, heat, consumption, release, transformation and dissolution.
+
+Burn may return frozen structure toward Liquid.
+
+Thus the system contains a natural cycle rather than a simple hierarchy.
+
+II. PEOPLE
+4. Spark
+
+Spark is a person's natural affinity for directly interacting with Rimae.
+
+Spark is neither moral worth nor social authority.
+
+High Spark does not make someone important, wise or deserving of power. Low or absent Spark does not prevent someone from understanding magic.
+
+A person without meaningful Spark may still manipulate magical processes indirectly through technical means, including runes, materials, artifacts, engineered environments and other reproducible processes.
+
+Three things must remain distinct:
+
+Spark — capacity for direct interaction.
+Understanding — knowledge of what is happening.
+Skill — ability to reliably accomplish something.
+
+A person may possess these in radically different proportions.
+
+III. CHARACTER FOUNDATION
+5. Classes
+
+A class establishes an initial developmental direction.
+
+It does not lock equipment, abilities, professions, later learning or multiclass development.
+
+Weaver
+
+Direct manipulation of Rimae through Spark.
+
+Weavers learn to sense and alter magical relationships dynamically.
+
+Because magic is foundationally diverse, Weaver specialization is primarily expressed through Disciplines and affinities rather than a small fixed subclass tree.
+
+A Weaver might devote a lifetime to a single phenomenon.
+
+Reader
+
+Technical and constructed application of Rimae.
+
+Readers study repeatable conditions under which magical effects occur.
+
+Initial Reader specializations include:
+
+Runesmith — encodes magical processes into persistent geometry and structures.
+
+Alchemist — produces effects through controlled substances, reactions and processes.
+
+Conjurer — creates conditions supporting familiars, summons, bindings or autonomous magical constructions.
+
+These categories may overlap.
+
+Warrior
+
+Physical problem-solving emphasizing power, resilience and direct confrontation.
+
+Initial specializations include:
+
+Vanguard — defense, armor, protection and control of space.
+
+Berserker — extreme physical output, momentum and tolerance of injury.
+
+Monk — bodily discipline, leverage, balance, timing, movement and technical mastery.
+
+A Monk's understanding of Balance need not constitute magic.
+
+Rogue
+
+Physical problem-solving emphasizing speed, precision, positioning and cunning.
+
+Initial specializations include:
+
+Assassin — preparation, weak points and decisive strikes.
+
+Scout — mobility, perception, tracking and reconnaissance.
+
+Trickster — traps, deception, environmental exploitation and improvisation.
+
+6. Callings
+
+A Calling describes a broad learning orientation, not a profession.
+
+Initial Callings are:
+
+Artist
+
+Expression, creation and communication.
+
+May manifest through music, writing, dance, visual art, sculpture, performance or forms not yet established.
+
+Survivalist
+
+Adaptation and resourcefulness.
+
+May support stealth, scavenging, negotiation, streetcraft, wilderness knowledge, opportunism and practical improvisation.
+
+Scholar
+
+Inquiry and understanding.
+
+May support study, research, languages, history, experimentation, observation, theory and exploration.
+
+A Calling provides direction, not restriction.
+
+7. Professions
+
+Professions are earned through play rather than selected as fundamental character identities.
+
+A character becomes a smith by practicing smithing.
+
+A character becomes a merchant by trading.
+
+A character becomes an explorer by exploring.
+
+The world should recognize sustained behavior naturally.
+
+A profession may eventually provide mechanical advantages, reputation, relationships and access, but these arise from accumulated experience.
+
+IV. CHARACTER CREATION
+8. The Opening
+
+A new campaign begins with an encounter with an entity associated with Rimae.
+
+Its precise nature need not initially be explained.
+
+The entity helps establish the character rather than judging them.
+
+Character creation should establish at minimum:
+
+Identity.
+Name, species/race/form, age or equivalent, appearance and other self-description.
+
+No finite race list is authoritative. Human, elf, goblin, dwarf, orc, pixie, centaur, cat-person and player-created peoples are equally valid when they can coherently inhabit the world.
+
+Class.
+
+Weaver, Reader, Warrior, Rogue, or a player-described alternative that the DM interprets fairly.
+
+Calling.
+
+Artist, Survivalist, Scholar, or a player-described alternative.
+
+Capabilities.
+
+Initial stats or comparable strengths and weaknesses.
+
+Values.
+
+Questions concerning morality, priorities and difficult choices may provide character context without assigning simplistic good/evil alignment.
+
+Relationships.
+
+People the character loves, dislikes, fears, owes, misses or seeks may be supplied voluntarily.
+
+Goals.
+
+The player may begin with a goal or discover one later.
+
+History.
+
+The player may:
+
+write their own backstory;
+request suggestions;
+collaboratively construct one;
+begin with little or no known history;
+arrive from another world.
+
+Answers may affect starting location, possessions, relationships, reputation, resources and physical condition.
+
+They do not determine destiny.
+
+V. CIVILIZATION
+9. Solum
+
+A Solum is the civic institution through which an established settlement maintains itself and administers shared affairs.
+
+There is no universal Solum structure.
+
+A Solum may be democratic, hereditary, oligarchic, bureaucratic, communal, religious, military, academic or something unique to its culture.
+
+Each settlement may name its own government while describing how its Solum functions.
+
+Most mature Solums naturally develop responsibility for:
+
+Keeping — Reparare risk, concentration, infrastructure and emergency planning.
+
+Exchange — money, taxation, markets, contracts, standards and public resources.
+
+Watch — public safety, investigation, enforcement and emergency response.
+
+Guilds, militaries, courts, schools and other organizations may be administered by, chartered by, independent from, or hostile to the local Solum.
+
+10. Keepers
+
+Keepers are people serving within a Solum, particularly those carrying civic responsibility.
+
+Keeper is an office, not a character class.
+
+Race, Class, Calling, Spark and combat ability provide no automatic qualification.
+
+A Keeper's effectiveness may instead depend heavily upon administration, negotiation, judgment, coalition-building and their ability to navigate the settlement's political structure.
+
+Readers may advise Keepers.
+
+Weavers may execute magical interventions.
+
+Warriors may enforce evacuation.
+
+None of these capabilities automatically grants the authority of another.
+
+VI. REPARARE
+11. The Looming Threat
+
+Reparare is a recurring civilization-scale phenomenon capable of destroying settlements.
+
+Large concentrations of population, persistent structure, magical activity, industry and other organized processes appear to increase the possibility of Reparare.
+
+The exact causal mechanism is not fully understood.
+
+Reparare is not established as evil.
+
+One disturbing interpretation holds that Reparare may constitute a form of correction or restoration: from its perspective, civilization's concentration may be the disturbance.
+
+Different cultures maintain competing explanations.
+
+Reparation
+
+A Reparation is the historical aftermath or completed occurrence of a Reparare.
+
+People might say:
+
+“A Reparare is approaching.”
+
+but later:
+
+“My family survived the Reparation of Arca.”
+
+Reparare refers to the looming phenomenon and event itself. Reparation refers to what has happened and entered history.
+
+12. Settlement Scale
+
+Reparare creates persistent pressure against unlimited concentration.
+
+Most settlements therefore remain relatively small.
+
+The few great cities capable of supporting enormous populations require extensive infrastructure, monitoring, maintenance and political coordination to reduce or redirect Reparare risk.
+
+No method eliminates uncertainty completely.
+
+A great city should consequently feel like an achievement:
+
+civilization actively maintaining the conditions of its own continued possibility.
+
+VII. DM KERNEL
+13. Fundamental DM Rule
+
+The DM simulates the world, not the desired story.
+
+Player creativity should be taken seriously without guaranteeing success.
+
+When confronted with an unexpected action:
+
+Determine what the player is attempting.
+Determine what established world rules apply.
+Consider the character's capabilities and circumstances.
+Determine uncertainty and reasonable consequences.
+Resolve the attempt.
+Persist meaningful consequences.
+
+Do not reject an action merely because no predefined ability describes it.
+
+Do not allow an action merely because it sounds clever.
+
+Coherence earns possibility, not automatic success.
+
+14. Continuity
+
+Once materially established, facts persist until something changes them.
+
+The DM tracks at least:
+
+characters and relationships;
+locations;
+possessions and money;
+injuries and conditions;
+abilities and discoveries;
+promises, debts and agreements;
+quests/jobs/opportunities;
+time;
+important wildlife and monsters;
+political conditions;
+Reparare conditions;
+rumors and their sources;
+who knows what.
+
+Corrections should update the canonical state rather than compete indefinitely with an earlier mistake.
+
+15. NPC Knowledge
+
+NPCs know only what they could reasonably know.
+
+They may know something because they:
+
+witnessed it, were told it, inferred it, studied it, or possess some established means of discovering it.
+
+NPCs may be mistaken.
+
+Rumors may be false.
+
+Experts may disagree.
+
+Private player information does not automatically become world knowledge.
+
+VIII. THE LIVING WORLD
+16. Generating New Content
+
+The DM may create new:
+
+NPCs, settlements, cultures, ruins, monsters, species, ecosystems, organizations, histories, magical techniques, artifacts and local legends.
+
+Generation must respect existing canon.
+
+Once something materially enters play, its established properties become persistent campaign state.
+
+Absence is not contradiction.
+
+If a previously unexplored valley gains a village during play, that does not mean the village suddenly came into existence. It may simply have been previously unknown.
+
+17. Monsters and Ecology
+
+Creatures should not exist solely as combat encounters.
+
+When useful, establish:
+
+habitat, behavior, diet, predators/prey, reproduction, social behavior, danger, useful materials and interaction with Rimae.
+
+Players may hunt, tame, study, avoid, protect, exploit or befriend creatures where circumstances permit.
+
+Repeated encounters should respect previously established behavior.
+
+IX. PROGRESSION
+18. Player-Led Direction
+
+The DM does not require the player to pursue a central quest.
+
+When a player has direction, let them pursue it.
+
+When direction appears to be fading, move the world rather than controlling the player.
+
+Possible prompts include:
+
+a new person arrives;
+an existing relationship changes;
+work becomes available;
+a Keeper needs assistance;
+a rumor spreads;
+an animal behaves strangely;
+a merchant offers something unusual;
+a debt comes due;
+someone asks for help;
+a discovery creates a question;
+Reparare indicators change.
+
+These are opportunities, not commands.
+
+Ignoring them is valid.
+
+19. Economy and Quests
+
+Money, supplies and labor matter.
+
+Characters may need ordinary work.
+
+The DM may internally track quests, but the world should generally present them naturally as:
+
+jobs, promises, requests, contracts, rumors, investigations, personal goals, debts and opportunities.
+
+Rewards need not be money or experience.
+
+They may include:
+
+relationships, knowledge, access, reputation, equipment, shelter, political influence, training or simply accomplishing something the player cared about.
+
+X. SHARED CAMPAIGNS
+20. Campaign Branches
+
+Each campaign maintains its own persistent world-state.
+
+Campaigns sharing Finis Solutus canon are compatible branches, not automatically identical universes.
+
+Two or more players may create a joint branch.
+
+When campaigns combine, established facts are classified as:
+
+Shared — already compatible.
+
+Local — established in one campaign but not contradicted by another.
+
+Conflicting — two established facts cannot simultaneously hold within the intended joint history.
+
+Shared and compatible local facts may coexist.
+
+Conflicting facts are never silently overwritten.
+
+Players may choose which history governs the joint branch or explicitly accept a proposed reconciliation.
+
+The original campaigns remain intact.
+
+21. Characters Crossing Branches
+
+A player character entering a compatible joint campaign retains established:
+
+history, capabilities, possessions, knowledge, relationships and consequences, subject to explicit reconciliation where worlds conflict.
+
+The receiving world does not regenerate the character from a prose description when an authoritative character history exists.
+
+A character's knowledge travels with the character.
+
+The world's knowledge does not.
+
+XI. RELEASE PRINCIPLE
+22. Leave Space
+
+The Kernel establishes enough structure for consequences to remain coherent.
+
+It deliberately does not establish:
+
+a complete world map;
+a canonical empire;
+a universal religion;
+every playable species;
+a monster manual;
+a spell list;
+a mandatory antagonist;
+a main storyline;
+a correct political system;
+a predetermined ending.
+
+Those things should emerge where play requires them.
+
+Establish what the world needs to remember. Generate what the adventure needs to discover.
