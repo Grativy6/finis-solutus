@@ -1,0 +1,51 @@
+{
+  "schema": "fs-ledger-genesis/1",
+  "ledger_id": "example-player-ledger",
+  "visibility": "public",
+  "campaign_id": "example-campaign",
+  "branch_id": "example:branch:main",
+  "subject": {
+    "kind": "player",
+    "id": "example-player",
+    "name": "Example Player"
+  },
+  "kernel": {
+    "version": "v0.16 Draft",
+    "source": "kernel/Finis_Solutus_World_Campaign_DM_Kernel_v0.16_Draft.md"
+  },
+  "mechanics_profile": "fs-v0.16-default",
+  "time_seconds": 28800,
+  "location": "Example Town — Workshop",
+  "risk": "Normal",
+  "stats": {
+    "STR": 12,
+    "AGI": 15,
+    "STA": 15,
+    "WIS": 24
+  },
+  "resources": {
+    "hp": "126",
+    "rp": "240",
+    "fatigue": "0",
+    "overexertion": "0"
+  },
+  "progression": {
+    "level": 1,
+    "exp": 90,
+    "unallocated_points": 0,
+    "earned_points": []
+  },
+  "gold": {
+    "carried": 40,
+    "stored": {}
+  },
+  "conditions": {},
+  "inventory": {},
+  "achievements": {},
+  "open_items": {},
+  "audit_flags": [],
+  "metadata": {
+    "fixture": true,
+    "note": "Synthetic example only; not campaign canon."
+  }
+}

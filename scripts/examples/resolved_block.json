@@ -1,0 +1,106 @@
+{
+  "schema": "fs-ledger-proposal/1",
+  "receipt_id": "R000001",
+  "request_id": "example-day1-workshop-block",
+  "kind": "resolved_block",
+  "campaign_id": "example-campaign",
+  "branch_id": "example:branch:main",
+  "subject_id": "example-player",
+  "expected_revision": 0,
+  "expected_head": "sha256:84418c04e1661489652412a528b5a38566aed9c9a2471680c3425c8985d3eff4",
+  "summary": "Completed a paid workshop block and walked to the market",
+  "elapsed_seconds": 1800,
+  "location": {
+    "value": "Example Town — Market",
+    "path": "Walked from the workshop after the work block"
+  },
+  "ops": [
+    {
+      "op": "rp.change",
+      "amount": "-10",
+      "reason": "Used a calibrated tool during the work"
+    },
+    {
+      "op": "fatigue.exert",
+      "amount": "4",
+      "reason": "Sustained careful bench work"
+    },
+    {
+      "op": "gold.store.define",
+      "id": "workshop-lockbox",
+      "owner": "example-player",
+      "custodian": "example-player",
+      "location": "Example Town — Workshop lockbox",
+      "access": "Workshop key",
+      "reason": "Established the storage custody record"
+    },
+    {
+      "op": "gold.receive",
+      "amount": 20,
+      "to": "carried",
+      "reason": "Workshop pay received"
+    },
+    {
+      "op": "gold.transfer",
+      "amount": 25,
+      "from": "carried",
+      "to": "workshop-lockbox",
+      "reason": "Deposited Gold before leaving"
+    },
+    {
+      "op": "exp.award",
+      "amount": 15,
+      "reason": "First independent calibrated repair",
+      "earned_points": [
+        {
+          "stat": "AGI",
+          "reason": "Repeated precise handling across the advancement interval"
+        }
+      ]
+    },
+    {
+      "op": "points.allocate",
+      "amounts": {
+        "STA": 1
+      },
+      "reason": "Prospective player allocation at the resolved boundary"
+    },
+    {
+      "op": "inventory.upsert",
+      "id": "calibrated-driver",
+      "value": {
+        "name": "Calibrated driver",
+        "quantity": "1",
+        "owner": "example-player",
+        "custodian": "example-player",
+        "location": "Carried tool roll",
+        "state": "Ready",
+        "condition": "Good"
+      }
+    },
+    {
+      "op": "achievement.upsert",
+      "id": "first-independent-repair",
+      "value": {
+        "label": "First independent calibrated repair",
+        "result": "Verified",
+        "acceptance": "Pending client review",
+        "account": "Open — workshop pay received; client settlement separate"
+      }
+    },
+    {
+      "op": "open_item.upsert",
+      "id": "client-review",
+      "value": {
+        "label": "Client review of repaired instrument",
+        "status": "open",
+        "due": "When the client returns",
+        "source": "R000001"
+      }
+    }
+  ],
+  "refs": {
+    "scene_id": "S000001",
+    "sources": []
+  }
+}

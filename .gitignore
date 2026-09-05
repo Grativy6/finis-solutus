@@ -20,3 +20,5 @@ secrets/
 Thumbs.db
 ~$*
 *.tmp
+__pycache__/
+*.py[cod]

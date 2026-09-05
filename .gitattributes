@@ -1,6 +1,8 @@
 *.md text eol=lf
 *.cff text eol=lf
 *.json text eol=lf
+*.jsonl text eol=lf
+*.py text eol=lf
 *.docx -text
 history/drafts/** -text
 kernel/source/** -text
